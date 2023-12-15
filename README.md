@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit!</h1>
-<h3 align="center">I am a developer.</h3>
+<h3 align="center">I am a Human.</h3>
 <h4 align="center">I am a Developer who loves to solve problems. I am a quick learner and lurk around a lot of communities. </h4>
 <h4 align="center">If you want to test out my skills , give me a problem statement on twitter .</h4>
 <h2 align="center">SKILLS : DSA | Data Science | Probabilty and Statistics | Power BI | Tableau | Azure |Mathematics |</h2>
